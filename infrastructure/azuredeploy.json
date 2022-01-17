@@ -5,12 +5,12 @@
     "webAppName": {
       "type": "string",
       "minLength": 5,
-      "maxLength": 20
+      "maxLength": 50
     },
     "containerRegistryName": {
       "type": "string",
       "minLength": 5,
-      "maxLength": 20
+      "maxLength": 50
     },
     "containerImage": {
       "type": "string",
