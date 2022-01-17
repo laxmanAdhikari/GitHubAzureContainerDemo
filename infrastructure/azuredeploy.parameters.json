@@ -6,7 +6,7 @@
       "value": "app-todo-sample1162022"
     },
     "containerRegistryName": {
-      "value": "acrtodosample1162022"
+      "value": "acrfortodosample"
     },
     "sqlServerName": {
       "value": "sql-todo-sample-1162022"
