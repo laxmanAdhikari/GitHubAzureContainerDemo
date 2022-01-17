@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "webAppName": {
-      "value": "app-todo-sample-1162022"
+      "value": "app-todo-sample1162022"
     },
     "containerRegistryName": {
-      "value": "acrtodosample-1162022"
+      "value": "acrtodosample1162022"
     },
     "sqlServerName": {
       "value": "sql-todo-sample-1162022"
