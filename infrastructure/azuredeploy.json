@@ -258,7 +258,7 @@
         "app": "[variables('webAppName')]",
         "[concat('hidden-related:', resourceId('Microsoft.Web/serverfarms', variables('appServicePlanName')))]": "empty"
       },
-      "kind": "app,linux,container",
+      "kind": "app,windows,container",
       "properties": {
         "name": "[variables('webAppName')]",
         "serverFarmId": "[resourceId('Microsoft.Web/serverfarms', variables('appServicePlanName'))]",
