@@ -23,7 +23,7 @@ env:
   AZURE_RESOURCE_GROUP: rg-todo-sample-1162022  # target resource, must match the {resource-group-name} you setup in the pre-requisties
   WEB_APP_NAME: app-todo-sample-1162022         # set the name for the Web App on Azure
   ACR_NAME: acrtodosample-1162022               # set the name for the Azure Container Registry
-  CONTAINER_IMAGE_NAME: app-todo-sample-1162022 # set the name for the container image
+  CONTAINER_IMAGE_NAME: acrfortodosample # set the name for the container image
   SQL_SERVER_NAME: sql-todo-sample-1162022      # set the name for the Azure SQL Server
   SQL_SERVER_ADMIN_LOGIN: ladhikari  # set the name for the Azure SQL Server admin login
   SQL_SERVER_ADMIN_PASSWORD: ${{ secrets.SQL_SERVER_ADMIN_PASSWORD }}  # password for the Azure SQL Sever admin login -> must be in the secrets
