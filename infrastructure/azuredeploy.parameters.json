@@ -3,19 +3,19 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "webAppName": {
-      "value": "app-todo-sample"
+      "value": "app-todo-sample-1162022"
     },
     "containerRegistryName": {
-      "value": "acrtodosample"
+      "value": "acrtodosample-1162022"
     },
     "sqlServerName": {
-      "value": "sql-todo-sample"
+      "value": "sql-todo-sample-1162022"
     },
     "dbAdminLogin": {
-      "value": "dbusradm"
+      "value": "ladhikari"
     },
     "dbName": {
-      "value": "sqldb-todo"
+      "value": "sqldb-todo-1162022"
     }
   }
 }
